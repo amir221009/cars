@@ -1,0 +1,44 @@
+header img {
+    width: 105px;
+     
+}
+header p {
+    font-size: 70px;
+     margin: 4px;
+}
+hr{
+   width: 1300px;
+   height: 1px;
+}
+.top{
+    text-align: center;
+    font-size: 80px;
+}
+main p {
+    font-size: 30px;
+}
+h2 {
+   font-size: 40px; 
+}
+main img {
+   width: 800px;
+    height:450px
+      
+}
+h3 {
+  font-size: 25px; 
+  color:gray;
+}
+main p {
+    margin: 4px;
+}
+.p {
+  text-align: center;  
+}
+footer img {
+  height: 100px;
+  width:100px;
+}
+footer p{
+ font-size: 30px;  
+}
